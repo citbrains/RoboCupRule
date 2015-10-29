@@ -16,3 +16,6 @@
 * **試合のルール**
     * サッカーの試合のプレイヤーの数は増加されるだろう.
     これは, ヒューマノイドロボット間での協力とチームプレイを推奨するものである. 2014年にはKidSizeでは4対4の試合が, 2010年ではTeenSizeで2対2の試合が導入された. そして, 次の年ではプレイヤーの数をさらに増加すべきである.
+
+このドキュメントはHumanoid League Rules 2015-06-29を千葉工業大学の有志が翻訳したものです.
+<http://www.robocuphumanoid.org/wp-content/uploads/HumanoidLeagueRules2015-06-29.pdf>
