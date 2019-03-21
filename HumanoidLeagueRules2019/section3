@@ -100,7 +100,14 @@ Push Recoveryの目標は、歩きながら強力なプッシュに耐えるこ�
 
 M = √H(mb×hi) ÷　hc ×　mr × hc
 
+～補足～
 M　ランキング測定基準
+H　ボトルを落とした垂直の高さ　= L - √(L^2 - D^2)
+mb(Mass of the bottle)　ボトルの質量 
+hi(Height of the centre of mass of the bottle at impact)　衝撃時のボトルの重心の高さ
+mr(Mass of the robot)　ロボットの質量
+hc(Height of the centre of mass of the robot)　ロボットの重心の高さ
+
 
 √H÷M(robot)＝√（L－√L＾２－D＾２）÷M（robot）
 
