@@ -106,7 +106,8 @@ AdultSizeの試合
 ### 安全性
 ゴールはしっかりと地面に固定する必要があります。 ポータブルのゴールは、この要件を満たす場合にのみ使用できます
 ### プレイフィールド
-![field](./field.png)
+![field](./field.png)  
+
 |   |                        | kidsize | AdultSize |
 |---|------------------------|---------|-----------|
 | A | Field length           | 9m      | 14m       |
@@ -119,6 +120,7 @@ AdultSizeの試合
 | G | Penalty mark distance  | 1.5m    | 2.1m      |
 | H | Center circle diameter | 1.5m    | 3m        |
 | I | Border strip width     | 0.7m    | 1m        |
+
 ### 光の状態
 照明は人工照明でも自然照明でもかまいません。
 ### コーナーフラッグポスト
