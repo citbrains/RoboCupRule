@@ -1,18 +1,19 @@
-Virtual RoboCup Soccer Humanoid League Laws of the Game 2021/2022 March 24th, 2022
+# Virtual RoboCup Soccer Humanoid League Laws of the Game 2021/2022 March 24th, 2022
 翻訳　第一回翻訳日2022年4月21日　担当：21年度生
 原文：RC-HL-2022-Rules.pdf
-     http://humanoid.robocup.org/wp-content/uploads/RC-HL-2022-Rules-Changes-Marked-3.pdf
+     [http://humanoid.robocup.org/wp-content/uploads/RC-HL-2022-Rules-Changes-Marked-3.pdf]
 
 
-概要
-第I章 競技規則
-第II章 ロボカップヒューマノイドリーグ競技規則
-第III章 ロボカップヒューマノイドリーグ テクニカルチャレンジ競技規則 (実競技のみ)
-付録 追加資料
+## 概要
++ 第I章 競技規則
++ 第II章 ロボカップヒューマノイドリーグ競技規則
++ 第III章 ロボカップヒューマノイドリーグ テクニカルチャレンジ競技規則 (実競技のみ)
++ 付録 追加資料
 
 
-目次
-第1章 競技に関する規定 
+## 目次
+### 第1章 競技に関する規定 
+
 第1条 競技場
 第2条 ボール 
 第3条 プレイヤー 
@@ -33,10 +34,10 @@ Virtual RoboCup Soccer Humanoid League Laws of the Game 2021/2022 March 24th, 20
 試合またはホームアンドアウェイの勝者を決定する手順 
 追加アシスタントレフリー 
 
-第2章： ロボカップヒューマノイドリーグ競技規則 
+### 第2章： ロボカップヒューマノイドリーグ競技規則 
 競技とトロフィー
 
- 第3章：ロボカップヒューマノイドリーグ テクニカルチャレンジルール（実競技のみ）
+### 第3章：ロボカップヒューマノイドリーグ テクニカルチャレンジルール（実競技のみ）
 テクニカルチャレンジの一般ルール
 パート A：プッシュ・リカバリー（アダルト・サイズのみ） 
 パート B：コラボレーティブ ローカライゼーション（キッズサイズのみ） 
@@ -44,5 +45,5 @@ Virtual RoboCup Soccer Humanoid League Laws of the Game 2021/2022 March 24th, 20
 パート D： パルクール
 パート E： ハイキックチャレンジ
 
-付録： 追加資料 
-重心測定
+## 付録： 追加資料 
+### 重心測定
