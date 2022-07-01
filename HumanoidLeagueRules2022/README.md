@@ -1,5 +1,6 @@
 # Virtual RoboCup Soccer Humanoid League Laws of the Game 2021/2022 March 24th, 2022
 翻訳　第一回翻訳日2022年4月21日　担当：21年度生
+
 原文：RC-HL-2022-Rules.pdf
      [http://humanoid.robocup.org/wp-content/uploads/RC-HL-2022-Rules-Changes-Marked-3.pdf]
 
